@@ -7,7 +7,7 @@
       model.savedSelectedPlanetIndex(-1)
       model.transitionInToPlanetEditor()
       model.update_planet()
-    }, 1000)
+    }, 2000)
   }
 
   model.api_game_debug_reloadScene = api.game.debug.reloadScene
