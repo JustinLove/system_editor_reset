@@ -4,9 +4,9 @@
   "category": ["system-editor", "ui", "modding"],
   "context": "client",
   "date": "2014/08/24",
-  "description": "Reset the system editor in order to reload terrain files.",
+  "description": "Reload key in system editor reloads biome files, and will immediately preview the current planet.",
   "display_name": "System Editor Reset",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-system-editor-reset.63165/",
   "identifier": "com.wondible.pa.system_editor_reset",
   "priority": 100,
   "scenes": {
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
