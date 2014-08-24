@@ -1,0 +1,20 @@
+{
+  "author": "wondible",
+  "build": "70289",
+  "category": ["system-editor", "ui", "modding"],
+  "context": "client",
+  "date": "2014/08/24",
+  "description": "Reset the system editor in order to reload terrain files.",
+  "display_name": "System Editor Reset",
+  "forum": null,
+  "identifier": "com.wondible.pa.system_editor_reset",
+  "priority": 100,
+  "scenes": {
+    "system_editor": [
+      "coui://ui/mods/system_editor_reset/system_editor_reset.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
